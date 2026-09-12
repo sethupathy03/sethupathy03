@@ -1,13 +1,15 @@
 <h1 data-importer="text" align="center">SETHUPATHY V</h1>
 
+<p align="center">
+  <i>Code with purpose. Build with passion.</i>
+</p>
+
 ###
 
 <h4 data-importer="text" align="center">IT Undergraduate | Full Stack Development Enthusiast</h4>
 
 ###
-<p align="center">
-  <i>"Code with purpose. Build with passion."</i>
-</p>
+
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkwcmdwbmN2eWRkcmU2YnlhNDVyNnp4cW53emU1OTdlNmtjMmxucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
